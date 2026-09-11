@@ -1,4 +1,4 @@
 # My Research Proposal
 
-## Pilot Findings (n=6, 1 missing excluded)
-Control average 71.5, Treatment average: 85.0. See learning-shared for data and code.
+## Figure 1 TBD
+Pilot results will be inserted here once draft version confirmed with Casey.
